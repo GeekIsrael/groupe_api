@@ -1,0 +1,19 @@
+# Dossiers de l'environnement virtuel
+env/
+venv/
+
+# Fichiers de configuration sensible
+.env
+*.pyc
+__pycache__/
+db.sqlite3
+
+# Fichiers Django
+staticfiles/
+media/
+
+# Logs
+*.log
+
+# Autres dossiers générés
+.DS_Store
